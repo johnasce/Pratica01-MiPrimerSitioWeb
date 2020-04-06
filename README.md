@@ -1,7 +1,8 @@
 # Pratica01-MiPrimerSitioWeb
 Pratica01 - Mi Primer Sitio Web
-1.Pagina Principal Denominada index.html: es la pagina principal que tiene hipervinculos de todas las paginas
+1. Pagina Principal Denominada index.html: es la pagina principal que tiene hipervinculos de todas las paginas
 Contiene un menu e informacion 
+
 2. Todas las paginas contienen un Logotipo y un menu y los recursos estan organizados en carpetas
 (EN EL LOGOTIPO SE PEUDE VOLVER AL MENU PRINCIPAL, asi como la opcion menu [rincipal])
 
